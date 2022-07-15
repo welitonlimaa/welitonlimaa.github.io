@@ -1,0 +1,24 @@
+body{
+    background-color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1,h4 {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    text-align: justify;
+}
+#perfil{
+    border-radius: 80px;
+}
+.button{
+    color: #fff;
+    font-size: 16px;
+    line-height: 40px;
+    font-weight: 700;
+    padding: 10px 20px;
+    background-color: rgb(43, 43, 43);
+    text-decoration: none;
+    border-radius: 5px;
+}
